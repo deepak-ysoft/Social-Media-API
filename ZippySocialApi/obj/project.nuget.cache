@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mGN0R2pERgQ=",
+  "dgSpecHash": "yoVlZ76Nc04=",
   "success": true,
-  "projectFilePath": "C:\\Users\\YSOFT_9\\Desktop\\Deepak Saini\\ZippySocialApi\\ZippySocialApi.csproj",
+  "projectFilePath": "C:\\Users\\YSOFT_9\\Desktop\\Deepak Saini\\ZippSocial_folder\\Social-Media-API\\ZippySocialApi\\ZippySocialApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\YSOFT_9\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\YSOFT_9\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
