@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\YSOFT_9\\Desktop\\Deepak Saini\\ZippySocialApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{995FB785-9525-41EF-8A2A-5257BAC41514}|ZippySocialApi.csproj|c:\\users\\ysoft_9\\desktop\\deepak saini\\zippysocialapi\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{995FB785-9525-41EF-8A2A-5257BAC41514}|ZippySocialApi.csproj|solutionrelative:models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{995FB785-9525-41EF-8A2A-5257BAC41514}|ZippySocialApi.csproj|c:\\users\\ysoft_9\\desktop\\deepak saini\\zippysocialapi\\models\\story.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{995FB785-9525-41EF-8A2A-5257BAC41514}|ZippySocialApi.csproj|solutionrelative:models\\story.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{995FB785-9525-41EF-8A2A-5257BAC41514}|ZippySocialApi.csproj|c:\\users\\ysoft_9\\desktop\\deepak saini\\zippysocialapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{995FB785-9525-41EF-8A2A-5257BAC41514}|ZippySocialApi.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{995FB785-9525-41EF-8A2A-5257BAC41514}|ZippySocialApi.csproj|c:\\users\\ysoft_9\\desktop\\deepak saini\\zippysocialapi\\content\\usercontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{995FB785-9525-41EF-8A2A-5257BAC41514}|ZippySocialApi.csproj|solutionrelative:content\\usercontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{995FB785-9525-41EF-8A2A-5257BAC41514}|ZippySocialApi.csproj|c:\\users\\ysoft_9\\desktop\\deepak saini\\zippysocialapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{995FB785-9525-41EF-8A2A-5257BAC41514}|ZippySocialApi.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{995FB785-9525-41EF-8A2A-5257BAC41514}|ZippySocialApi.csproj|c:\\users\\ysoft_9\\desktop\\deepak saini\\zippysocialapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{995FB785-9525-41EF-8A2A-5257BAC41514}|ZippySocialApi.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{995FB785-9525-41EF-8A2A-5257BAC41514}|ZippySocialApi.csproj|c:\\users\\ysoft_9\\desktop\\deepak saini\\zippysocialapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{995FB785-9525-41EF-8A2A-5257BAC41514}|ZippySocialApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{995FB785-9525-41EF-8A2A-5257BAC41514}|ZippySocialApi.csproj|c:\\users\\ysoft_9\\desktop\\deepak saini\\zippysocialapi\\zippysocialapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{995FB785-9525-41EF-8A2A-5257BAC41514}|ZippySocialApi.csproj|solutionrelative:zippysocialapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{995FB785-9525-41EF-8A2A-5257BAC41514}|ZippySocialApi.csproj|c:\\users\\ysoft_9\\desktop\\deepak saini\\zippysocialapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{995FB785-9525-41EF-8A2A-5257BAC41514}|ZippySocialApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{995FB785-9525-41EF-8A2A-5257BAC41514}|ZippySocialApi.csproj|c:\\users\\ysoft_9\\desktop\\deepak saini\\zippysocialapi\\content\\storycleanupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{995FB785-9525-41EF-8A2A-5257BAC41514}|ZippySocialApi.csproj|solutionrelative:content\\storycleanupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{995FB785-9525-41EF-8A2A-5257BAC41514}|ZippySocialApi.csproj|c:\\users\\ysoft_9\\desktop\\deepak saini\\zippysocialapi\\iservices\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{995FB785-9525-41EF-8A2A-5257BAC41514}|ZippySocialApi.csproj|solutionrelative:iservices\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\YSOFT_9\\Desktop\\Deepak Saini\\ZippySocialApi\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\YSOFT_9\\Desktop\\Deepak Saini\\ZippySocialApi\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T11:15:18.909Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\YSOFT_9\\Desktop\\Deepak Saini\\ZippySocialApi\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "Models\\Post.cs",
+              "ToolTip": "C:\\Users\\YSOFT_9\\Desktop\\Deepak Saini\\ZippySocialApi\\Models\\Post.cs",
+              "RelativeToolTip": "Models\\Post.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T05:35:34.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserContent.cs",
+              "DocumentMoniker": "C:\\Users\\YSOFT_9\\Desktop\\Deepak Saini\\ZippySocialApi\\Content\\UserContent.cs",
+              "RelativeDocumentMoniker": "Content\\UserContent.cs",
+              "ToolTip": "C:\\Users\\YSOFT_9\\Desktop\\Deepak Saini\\ZippySocialApi\\Content\\UserContent.cs",
+              "RelativeToolTip": "Content\\UserContent.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAQwF0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T10:25:01.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ZippySocialApi.http",
+              "DocumentMoniker": "C:\\Users\\YSOFT_9\\Desktop\\Deepak Saini\\ZippySocialApi\\ZippySocialApi.http",
+              "RelativeDocumentMoniker": "ZippySocialApi.http",
+              "ToolTip": "C:\\Users\\YSOFT_9\\Desktop\\Deepak Saini\\ZippySocialApi\\ZippySocialApi.http",
+              "RelativeToolTip": "ZippySocialApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-12-18T13:32:51.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\YSOFT_9\\Desktop\\Deepak Saini\\ZippySocialApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\YSOFT_9\\Desktop\\Deepak Saini\\ZippySocialApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-18T13:32:47.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StoryCleanupService.cs",
+              "DocumentMoniker": "C:\\Users\\YSOFT_9\\Desktop\\Deepak Saini\\ZippySocialApi\\Content\\StoryCleanupService.cs",
+              "RelativeDocumentMoniker": "Content\\StoryCleanupService.cs",
+              "ToolTip": "C:\\Users\\YSOFT_9\\Desktop\\Deepak Saini\\ZippySocialApi\\Content\\StoryCleanupService.cs",
+              "RelativeToolTip": "Content\\StoryCleanupService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAEwCwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T11:39:27.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Story.cs",
+              "DocumentMoniker": "C:\\Users\\YSOFT_9\\Desktop\\Deepak Saini\\ZippySocialApi\\Models\\Story.cs",
+              "RelativeDocumentMoniker": "Models\\Story.cs",
+              "ToolTip": "C:\\Users\\YSOFT_9\\Desktop\\Deepak Saini\\ZippySocialApi\\Models\\Story.cs",
+              "RelativeToolTip": "Models\\Story.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T10:10:14.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\YSOFT_9\\Desktop\\Deepak Saini\\ZippySocialApi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\YSOFT_9\\Desktop\\Deepak Saini\\ZippySocialApi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAEoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T10:08:47.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUser.cs",
+              "DocumentMoniker": "C:\\Users\\YSOFT_9\\Desktop\\Deepak Saini\\ZippySocialApi\\IServices\\IUser.cs",
+              "RelativeDocumentMoniker": "IServices\\IUser.cs",
+              "ToolTip": "C:\\Users\\YSOFT_9\\Desktop\\Deepak Saini\\ZippySocialApi\\IServices\\IUser.cs",
+              "RelativeToolTip": "IServices\\IUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T10:23:21.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\YSOFT_9\\Desktop\\Deepak Saini\\ZippySocialApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\YSOFT_9\\Desktop\\Deepak Saini\\ZippySocialApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAF4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T10:05:06.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\YSOFT_9\\Desktop\\Deepak Saini\\ZippySocialApi\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\YSOFT_9\\Desktop\\Deepak Saini\\ZippySocialApi\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAxwCsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T09:52:58.025Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
